@@ -26,5 +26,5 @@ A Full Stack Web developer🎯 from Pakistan.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fahad-ali-885154159/" ><img src="https://img.shields.io/badge/LinkedIn-Fahad%20Ali-blue?style=flat-square&logo=linkedin" alt="LinkedIn" ></a>
-<a href="mailto:fali13367@gmail.com"><img alt="Email"></a>
+<a href="mailto:fali13367@gmail.com"><img src="https://img.shields.io/badge/Email-fali13367@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
